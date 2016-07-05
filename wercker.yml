@@ -18,4 +18,4 @@ p3:
   steps:
     - script:
         name: echo
-        code: echo "p3"
+        code: echo "yeah p3"
